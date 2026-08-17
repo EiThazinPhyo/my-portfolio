@@ -7,10 +7,10 @@ You can check out the live website here:
 [https://eithazinphyo.github.io/my-portfolio/](https://eithazinphyo.github.io/my-portfolio/)
 
 2.Technologies & Libraries Used
-- **HTML5:** Semantic markup structure
-- **CSS3:** Custom styling and layout design
-- **JavaScript (ES6):** Interactive elements and dynamic features
-- **Bootstrap 5:** Responsive design, grid system, and pre-styled components
+- HTML5:Semantic markup structure
+- CSS3: Custom styling and layout design
+- JavaScript: Interactive elements and dynamic features
+- Bootstrap 5:Responsive design, grid system, and pre-styled components
 
 3.How to Run the Project
 1. Clone or download this repository.
